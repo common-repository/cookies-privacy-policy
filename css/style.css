@@ -1,0 +1,145 @@
+.container{
+	background: white;
+    padding: 38px;
+    border-radius: 5px;
+}
+.header-coookie{
+	margin: 40px 40px;
+}
+/* text */
+.title{
+	margin-bottom: 26px;
+}
+.title-label{
+	width: 12%;
+    font-size: 15px;
+    margin: 10px 48px;
+}
+.title-input{
+	width: 77%;
+    position: absolute;
+    left: 15.9%;
+}
+.content{
+	margin-bottom: 26px;
+}
+.content-label{
+	width: 12%;
+    font-size: 15px;
+    margin: 10px 48px;
+}
+.content-input{
+	width: 82%;
+    margin-left: 9px;
+
+}
+.boton{
+	margin-bottom: 26px;
+}
+.boton-label{
+	width: 12%;
+    font-size: 15px;
+    margin: 10px 48px;
+}
+.boton-input{
+	width: 77%;
+    position: absolute;
+    left: 15.9%;
+}
+.link-text{
+    margin-bottom: 26px;
+}
+.link-text-label{
+    width: 12%;
+    font-size: 15px;
+    margin: 10px 48px;
+}
+.link-text-input{
+    width: 77%;
+    position: absolute;
+    left: 15.9%;
+}
+.link{
+    margin-bottom: 26px;
+}
+.link-label{
+    width: 12%;
+    font-size: 15px;
+    margin: 10px 48px;
+}
+.link-input{
+    width: 77%;
+    position: absolute;
+    left: 15.9%;
+}
+.image{
+	margin-bottom: 80px;
+}
+.image-label{
+	width: 12%;
+    font-size: 15px;
+    margin: 10px 48px;
+}
+/*.image-input{
+	width: 77%;
+    position: absolute;
+    left: 15.9%;
+}*/
+.image-input{
+    float: left;
+}
+/* color */
+.title-color{
+	margin-bottom: 26px;
+}
+.title-color-label{
+	width: 12%;
+    font-size: 15px;
+    margin: 10px 48px;
+}
+.title-color-input{
+	width: 5%;
+    position: absolute;
+    left: 17.9%;
+}
+.content-color{
+	margin-bottom: 26px;
+}
+.content-color-label{
+	width: 12%;
+    font-size: 15px;
+    margin: 10px 48px;
+}
+.content-color-input{
+	width: 5%;
+    position: absolute;
+    left: 17.9%;
+
+}
+.boton-color{
+	margin-bottom: 26px;
+}
+.boton-color-label{
+	width: 12%;
+    font-size: 15px;
+    margin: 10px 48px;
+}
+.boton-color-input{
+     width: 5%;
+    position: absolute;
+    left: 17.9%;
+}
+/* image */
+.image-cookies{
+    /*border: 1px solid #e3e3e3;*/
+    /*padding: 10px;*/
+    display: block;
+    width: 50%;
+}
+.image-radio{
+    float: left;
+}
+.radio{
+    position: absolute;
+    left: 18%;
+}
